@@ -1,4 +1,5 @@
 # CSS Selector Basics
+<<<<<<< f25ddc3515c3c0e7adc754e516b20692a512c856
 ## Style using Classes and IDs - Independent Practice (10 mins) - PART 1
 
 Using what we've done in class and see how far you can get through these exercises in 10 minutes:
