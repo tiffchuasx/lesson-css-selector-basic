@@ -43,7 +43,7 @@ Go back to your code from the previous independent practice problem and continue
 - make the birds italic
 - make the fish underlined
 
-- create a new unordered ordered list add a list item for each the following plants:
+- create a new unordered list add a list item for each the following plants:
 
     - Dogwood Tree
     - Oak Tree
