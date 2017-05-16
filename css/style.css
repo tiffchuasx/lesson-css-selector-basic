@@ -1,0 +1,104 @@
+header {
+  padding-bottom: 20px;
+}
+
+nav {
+  font-weight: 600;
+}
+
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  margin-top: 30px;
+  border-top-color: black;
+  border-top-width: thick;
+  border-top-style: solid;
+  border-bottom-color: black;
+  border-bottom-width: thick;
+  border-bottom-style: solid;
+}
+
+a {
+  color: black;
+}
+
+
+main {
+  width: 90%;
+  margin: 10px auto;
+  text-align: left;
+  border-top-color: black;
+  border-top-width: thin;
+  border-top-style: solid;
+  border-bottom-color: black;
+  border-bottom-width: thin;
+  border-bottom-style: solid;
+  display: inline-block;
+}
+
+.title {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.content {
+  font-family: "Georgia", serif;
+}
+
+.position {
+  font-weight: 600;
+  font-style: italic;
+}
+
+.position2, .position3 {
+  font-family: sans-serif;
+}
+
+.position3 {
+  font-size: 90%;
+}
+
+.img1 {
+  width: 300px;
+  max-width: 46%;
+  height: auto;
+  padding: 2%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  float: right;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.img234 {
+  max-width: 100%;
+  padding: 5px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+#pageid {
+  font-style: italic;
+}
+
+.description {
+  max-width: 46%;
+  padding: 2%;
+  float: left;
+  padding-top: 30px;
+}
+
+.firsttop {
+    padding-top: 20px;
+}
+
+.firstbottom {
+  margin-top: 20px;
+}
+
+.experience {
+  margin-top: 30px;
+}
